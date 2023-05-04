@@ -6,6 +6,8 @@ HabboLauncher is a standalone executable that allows the user to launch either t
 
 Both the .NET version and C++ version are fully functional, however the C++ version is recommended for distribution as it works best with Wine, tested on MacOS (on Apple Silicon) and Ubuntu
 
+If the C++ version fails to run, you may need to install the [X86 C++ redistributable](https://aka.ms/vs/17/release/vc_redist.x86.exe)
+
 ### How it works
 
 Necessary files are extracted to `%AppData%\HabboLauncher%` on launch, including the Shockwave projector and standalone Flash executable
