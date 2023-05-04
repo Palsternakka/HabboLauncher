@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/41788480/236338825-b81ddb37-277c-40d4-88e2-4d742ba14fc4.png)
+
 # Information
 
 HabboLauncher is a standalone executable that allows the user to launch either the Shockwave or Flash client, that when built is less than 15 MB. It works with [this fork of Havana](https://github.com/JeppsonDev/Havana)
