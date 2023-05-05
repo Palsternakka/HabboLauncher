@@ -2,7 +2,7 @@
 
 # Information
 
-HabboLauncher is a standalone executable that allows the user to launch either the Shockwave or Flash client, that when built is less than 15 MB. It works with [this fork of Havana](https://github.com/JeppsonDev/Havana)
+HabboLauncher is a standalone executable that allows the user to launch either the Shockwave or Flash client, that when built is less than 15 MB. It works with [this fork of Havana](https://github.com/JeppsonDev/HavanaR39)
 
 Both the .NET version and C++ version are fully functional, however the C++ version is recommended for distribution as it works best with Wine, tested on MacOS (on Apple Silicon) and Ubuntu
 
